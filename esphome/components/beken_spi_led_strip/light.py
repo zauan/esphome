@@ -64,6 +64,7 @@ SUPPORTED_PINS = {
     libretiny.const.FAMILY_BK7231T: [16],
     libretiny.const.FAMILY_BK7238: [16],
     libretiny.const.FAMILY_BK7251: [16],
+    libretiny.const.FAMILY_RTL8720C: [16],
 }
 
 
